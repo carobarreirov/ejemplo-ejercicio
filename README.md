@@ -39,7 +39,8 @@
 
 ## :dart: About ##
 
-Este es el ejercicio 7 de Certificado MITxPro con Emeritus. 
+Este es el ejercicio 7 de Certificado MITxPro con Emeritus.
+[Aquí el demo](https://carobarreirov.github.io/ejemplo-ejercicio/)
 
 ## :sparkles: Features ##
 
